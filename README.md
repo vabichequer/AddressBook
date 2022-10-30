@@ -1,9 +1,6 @@
 # FoundryTest
 Small repository hosting the test done for Foundry
 
-# Foundry Test
-Small repository hosting the test done for Foundry
-
 # How to build this project
 In order to compile this project, navigate to the folder this project is in and utilize the command 
 ```bash 
